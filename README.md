@@ -16,7 +16,7 @@ Códigos [Python](https://www.python.org) desenvolvidos em sala de aula.
 # **Aula**
 \# | Data | Conteúdo
 --- | --- | ---
-01 | 01/11/2017 | Kotlin Básico
+01 | 01/11/2017 | Estrutuas de Decisão e Repetição
 
 
 # **Listas de Exercícios**
