@@ -17,6 +17,7 @@ Códigos [Python](https://www.python.org) desenvolvidos em sala de aula.
 \# | Data | Conteúdo
 --- | --- | ---
 01 | 01/11/2017 | Estrutuas de Decisão e Repetição
+02 | 08/11/2017 | Estrutuas de Decisão e Repetição
 
 
 # **Listas de Exercícios**
