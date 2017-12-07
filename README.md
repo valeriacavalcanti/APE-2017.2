@@ -20,6 +20,7 @@ Códigos [Python](https://www.python.org) desenvolvidos em sala de aula.
 02 | 08/11/2017 | Estruturas de Decisão e Repetição
 03 | 29/11/2017 | List
 04 | 04/12/2017 | Busca em Lista
+06 | 06/12/2017 | Ordenação (Bolha e Seleção Direta)
 
 
 # **Listas de Exercícios**
