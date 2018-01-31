@@ -23,6 +23,7 @@ Códigos [Python](https://www.python.org) desenvolvidos em sala de aula.
 05 | 06/12/2017 | Ordenação (Bolha e Seleção Direta)
 06 | 11/12/2017 | Lista Bidimensional (Matriz)
 07 | 24/01/2018 | String
+08 | 31/01/2018 | Funções
 
 # **Listas de Exercícios**
 \# | Número | Conteúdo
