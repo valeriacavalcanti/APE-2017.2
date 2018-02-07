@@ -24,6 +24,8 @@ Códigos [Python](https://www.python.org) desenvolvidos em sala de aula.
 06 | 11/12/2017 | Lista Bidimensional (Matriz)
 07 | 24/01/2018 | String
 08 | 31/01/2018 | Funções
+09 | 05/02/2018 | Funções
+10 | 07/02/2018 | Funções
 
 # **Listas de Exercícios**
 \# | Número | Conteúdo
